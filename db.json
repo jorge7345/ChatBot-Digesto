@@ -1,0 +1,11 @@
+{
+    "posts": [
+      { "id": 1, "title": "Post 1", "body": "Contenido del post 1" },
+      { "id": 2, "title": "Post 2", "body": "Contenido del post 2" }
+    ],
+    "comments": [
+      { "id": 1, "postId": 1, "body": "Comentario en el post 1" },
+      { "id": 2, "postId": 2, "body": "Comentario en el post 2" }
+    ]
+  }
+  
